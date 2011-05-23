@@ -6,4 +6,5 @@ namespace Model;
 */
 class User
 {
+    private $_user;
 }
