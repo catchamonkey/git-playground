@@ -7,4 +7,5 @@ namespace Model;
 class User
 {
     private $_user;
+    private $_log;
 }
