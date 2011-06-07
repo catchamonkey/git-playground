@@ -1,0 +1,3 @@
+[submodule "sfNavBuilderPlugin"]
+	path = sfNavBuilderPlugin
+	url = git@github.com:catchamonkey/sfNavBuilderPlugin.git
